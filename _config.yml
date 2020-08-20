@@ -5,5 +5,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Google search results) and in your feed.xml site description.
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+- jekyll-feed
+- jekyll-postcss
+- jekyll-seo-tag
